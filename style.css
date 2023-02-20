@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Meie+Script|Shadows+Into+Light|Arvo|Monda');
+
+
+header {
+    background-color: #8E668D;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-color: #8E668D;
+}
+
+h1 {
+    padding: 30px;
+    background-color: #8E668D;
+}
+
+.font_meie_script {
+  font-family: 'Meie Script', cursive;
+}
+
+.font_monda {
+    font-family: 'Monda', sans-serif;
+  }
+
+.bg-image {
+    background: no-repeat center center;
+    position: fixed;
+    background-size: cover;
+  } 
+
+  .background {
+    background-color: #8E668D;
+  }
+
+  .image {
+    width: 80px;
+  }
+
+  .row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.nav-tabs li.active {
+    background-color:#8E668D
+}
+
+li {
+    background-color: #8E668D;
+}
+
+.nav-tabs {
+   border-bottom: solid black;
+   background-color: #765475;
+}
+
